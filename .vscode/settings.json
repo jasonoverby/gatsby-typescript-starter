@@ -1,0 +1,10 @@
+{
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "cSpell.ignoreWords": [
+    "doesn",
+    "es",
+    "esnext",
+    "interop",
+    "module"
+  ]
+}
